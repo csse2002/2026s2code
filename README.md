@@ -1,0 +1,1 @@
+This repository stores the code examples written during the lectures in Semester 2, 2026.
