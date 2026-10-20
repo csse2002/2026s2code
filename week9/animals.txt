@@ -1,0 +1,5 @@
+animals 3
+
+Bob,penguin,100
+Sarah,tiger,20
+Barry,sloth,40
